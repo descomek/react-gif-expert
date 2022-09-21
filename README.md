@@ -32,3 +32,10 @@ Instalacion y configuracion project React Test (JEST)
 Compilar proyecto
 --------------------
 * npm run build
+
+--------------------
+Subir modificaciones repo git
+-----------------------------
+* git add .
+* git commit -m "COMENTARIOS"
+* git push
